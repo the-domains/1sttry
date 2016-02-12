@@ -1,0 +1,28 @@
+name: 1sttry
+favicon: null
+layout_spectrum: 0.04499330301769078
+typography_spectrum: 0.014745312742888927
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.35639587230980396
+  lightness: 0.21401191665790975
+  saturation: 0.6039014894049615
+  rhythmicContrast: 0.0712845167145133
+purpose: []
